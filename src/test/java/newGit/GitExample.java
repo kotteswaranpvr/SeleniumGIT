@@ -10,7 +10,10 @@ private void main2() {
 	// TODO Auto-generated method stub
 System.out.println("main2");
 
+
+
 }
+
 private void greensomr() {
 	// TODO Auto-generated method stub
 System.out.println("Greens OMR Navalur");
@@ -21,6 +24,27 @@ System.out.println("Greens OMR Thoraipakkam");	// TODO Auto-generated method stu
 
 
 }
+private void hotmail1() {
+	// TODO Auto-generated method stub
+System.out.println("main2");
+
+
+}
+private void hotmail2() {
+	// TODO Auto-generated method stub
+System.out.println("main2");
+
+
+}
+private void hotmail3() {
+	// TODO Auto-generated method stub
+System.out.println("main2");
+
+
+
+
+}
+
 
 
 }
